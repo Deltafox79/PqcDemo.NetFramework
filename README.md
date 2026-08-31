@@ -2,7 +2,7 @@
 
 # 🛡️ PQC Demo Suite v1.2
 
-[![Version](https://img.shields.io/badge/version-v1.1-blue.svg)](https://github.com)
+[![Version](https://img.shields.io/badge/version-v1.2-blue.svg)](https://github.com)
 [![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8.1-512BD4?logo=dotnet)](https://dotnet.microsoft.com/)
 [![Language](https://img.shields.io/badge/language-C%23-239120.svg?logo=csharp)](https://docs.microsoft.com/dotnet/csharp/)
 [![NIST Standards](https://img.shields.io/badge/NIST%20PQC-FIPS%20203%20%7C%20204%20%7C%20205%20%7C%20206-0052CC)](https://csrc.nist.gov/projects/post-quantum-cryptography)
